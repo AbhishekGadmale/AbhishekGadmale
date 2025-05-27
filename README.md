@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+# Hi, I'm [Abhishek Gadmale]!
+- 🔭 I’m currently working on [Attendance System using Facial Recognition ]
+- 🌱 I’m currently learning [Full Stack Web Development]
+- 💬 Ask me about [Skill]
+- 📫 How to reach me: [@gadmale335@gmail.com / https://www.linkedin.com/in/abhishek-gadmale-1309b8353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 <!--
 **AbhishekGadmale/AbhishekGadmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
